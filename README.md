@@ -1,2 +1,14 @@
 # hupu-one-archive
-HTML page archive and documentation
+
+公开页面文件归档
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 更新方式
+
+自动发布任务会继续维护本仓库，文件变化以提交记录为准。
